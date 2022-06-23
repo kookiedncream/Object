@@ -1,4 +1,4 @@
-package domain;
+package chapter_one.domain;
 
 public class Bag {
 	private Long amount;
